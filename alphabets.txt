@@ -3,3 +3,5 @@ b
 a+b
 
 bye
+a-b
+(a+b)(a+b)
